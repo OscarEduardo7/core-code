@@ -39,5 +39,67 @@ The pseudocode is helpful because is a introduction before a write a code, is si
 ### 8)  Why are flowcharts important to us as developers?
 The flowcharts are important because the representation of an algorithm or pseudocode is to easy to show or read. We can analize they process and they activities.
 
+## 🔴 Wednesday
+
+### 2) Translate the year you where born to binary, decimal and hexadecimal
+
+* My birth year: 1995.
+* * Binary: 11111001011
+* * Hexadecimal: 7CB
+
+### 3) Translate 51966 into hexadecimal and binary
+
+* Binary: 1100101011111110
+* Hexadecimal: CAFE
+
+### 5.1) Create a program to add two numbers given by the user
+
+```assembler
+.data
+	number1: .asciiz "\nPrimer numero: "
+	number2: .asciiz "\nSegundo numero: "
+    result_message: .asciiz "\nEl resultado es: "
+
+.text
+	main:
+		li $v0, 4
+		la $a0, number1
+		syscall
+
+		li $v0, 5
+		syscall
+
+		move $t0, $v0
+
+		li $v0, 4
+		la $a0, number2
+		syscall
+
+		li $v0, 5
+		syscall
+
+		move $t1, $v0
+        add $t2, $t0, $t1
+
+		li $v0, 4
+		la $a0 result_message
+		syscall
+
+        li $v0, 1
+		move $a0, $t2
+		syscall
+```
+
+### 5.2) Create a program that display your name
+
+```
+.data
+    message: .asciiz "\n Oscar Eduardo Mazariegos López \n"
+  .text
+    main:
+      li $v0, 4
+      la $a0, message
+      syscall
+```
 ---
 
