@@ -107,16 +107,91 @@ Create a webpage that prints some random paragraphs (https://loremipsum.io/es/) 
 
 ## 🔴 Wednesday
 ### 1) 
+Create some links to various search engines.
 ``` html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Code code Bootcamp</title>
+</head>
+<body >
+    <h1>Search Engines</h1>
+    <div style="width: 50%;">
+        <ul>
+            <li><a href="https://www.google.com">Google</a></li>
+            <li><a href="https://www.bing.com/">Bing</a></li>
+            <li><a href="https://es.ask.com/">ASK</a></li>
+            <li><a href="https://espanol.yahoo.com/">Yahoo</a></li>
+        </ul>
+    </div>
+</body>
+</html>
 ```
 
 ### 2) 
+Display five different images. Each image should have a title.
 ``` html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Code code Bootcamp</title>
+</head>
+<body >
+    <div style="background-color: rgb(126, 118, 9); text-align: center;">
+        <h1>Five Images</h1>
+    </div>
+    <div style="display: flex; background-color: blue; justify-content: center;">
+        <div style="margin: 25px; background-color: brown; display: flex; flex-direction: column; justify-content: center;">
+            <img width="200px" height="200px" src="https://kb.rspca.org.au/wp-content/uploads/2018/11/golder-retriever-puppy.jpeg"/>
+            <h2 style="text-align: center;">Dog</h2>
+        </div>
+        <div style="margin: 25px; background-color: brown; display: flex; flex-direction: column; justify-content: center;">
+            <img width="200px" height="200px" src="https://www.thespruce.com/thmb/fXjwNQJlSaHdluinEjNwcXQ3xTI=/2081x1441/filters:fill(auto,1)/GettyImages-898377636-cb49f5c0b57140af9a7d6d3b8be1100e.jpg"/>
+            <h2 style="text-align: center;">Horse</h2>
+        </div>
+        <div style="margin: 25px; background-color: brown; display: flex; flex-direction: column; justify-content: center;">
+            <img width="200px" height="200px" src="https://c.files.bbci.co.uk/151AB/production/_111434468_gettyimages-1143489763.jpg"/>
+            <h2 style="text-align: center;">Cat</h2>
+        </div>
+        <div style="margin: 25px; background-color: brown; display: flex; flex-direction: column; justify-content: center;">
+            <img width="200px" height="200px" src="https://www.petmd.com/sites/default/files/styles/article_image/public/goldfish-swimmingtoward_285011336_0.jpg?itok=ZZaLxiFQ"/>
+            <h2 style="text-align: center;">Gold Fish</h2>
+        </div>
+        <div style="margin: 25px; background-color: brown; display: flex; flex-direction: column; justify-content: center;">
+            <img width="200px" height="200px" src="https://i.pinimg.com/originals/35/0c/fe/350cfea7c1159f61fc0ffa605b72772b.jpg"/>
+            <h2 style="text-align: center;">Horse Fish</h2>
+        </div>
+    </div>
+</body>
+</html>
 ```
+![Five Images](/Weeks/images/html2.png)
 
 ### 3) 
+Display an image that when clicked will link to a website of your choice (should be opened in a new window).
 ``` html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Code code Bootcamp</title>
+</head>
+<body >
+    <div style="background-color: rgb(126, 118, 9); text-align: center;">
+        <h1>Link Image</h1>
+    </div>
+    <div style="display: flex; background-color: blue; justify-content: center;">
+        <div style="margin: 25px; background-color: brown; display: flex; flex-direction: column; justify-content: center;">
+            <a href="https://www.liveaquaria.com/category/40/" target="_blank"><img width="200px" height="200px" src="https://i.pinimg.com/originals/35/0c/fe/350cfea7c1159f61fc0ffa605b72772b.jpg"/></a>
+            <h2 style="text-align: center;">Horse Fish</h2>
+        </div>
+    </div>
+</body>
+</html>
 ```
+![Link Image](/Weeks/images/html3.png)
 
 ## 🔴 Thursday
 ### 1) 
