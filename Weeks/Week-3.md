@@ -1,3 +1,4 @@
+![Core Code](/Weeks/images/corecode2.png)
 # Week 3
 ---
 ## 🔴 Monday

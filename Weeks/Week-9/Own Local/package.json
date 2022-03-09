@@ -1,0 +1,11 @@
+{
+  "name": "own-local",
+  "version": "1.0.1",
+  "description": "own local module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Mazariegos",
+  "license": "ISC"
+}

@@ -1,4 +1,5 @@
-# Week 8
+![Core Code](/Weeks/images/corecode2.png)
+# Week 8 
 ---
 ## 🔴 Monday
 ### 1) 

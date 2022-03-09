@@ -1,6 +1,6 @@
-## Core-Code
-Core Code BootCamp
+![Core Code](/Weeks/images/corecode.png)
 
+Core Code BootCamp
 ---
 ## WEEKLY CHALLENGES
 
@@ -12,6 +12,7 @@ Core Code BootCamp
 - [WEEK 6 ~ pendiente ~](Weeks/Week-6.md)
 - [WEEK 7 ~ pendiente ~](Weeks/Week-7.md)
 - [WEEK 8](Weeks/Week-8.md)
+- [WEEK 9](Weeks/Week-9.md)
 
 ---
 
