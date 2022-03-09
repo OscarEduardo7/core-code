@@ -95,14 +95,27 @@ console.log(mymodule.Sum(10,10));
 
 
 ### 8)
-Watch this video about the Client-Server architecture.
+Watch this video about the Client-Server architecture.  ✅✅
 
 
 ## 🔴 Wednesday
 ### 1) 
+Watch this video about what is an API. ✅✅
 
 ### 2) 
+Answer the question: Are APIs only available on the Internet? 
+
+🔊 Answer: No, APIs can also be consumed locally.
 
 ### 3) 
+Learn what JSON is, you can start here. ✅✅
+
+
+### 4)
+Read about HTTP, here you have a good place to start. ✅✅
+
+### 5)
+Read about REST APIs, you can start here. ✅✅
+
 
 ---
