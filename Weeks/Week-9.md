@@ -117,5 +117,19 @@ Read about HTTP, here you have a good place to start. ✅✅
 ### 5)
 Read about REST APIs, you can start here. ✅✅
 
+## 🔴 Thursday
+
+### 1) 
+Learn about Express JS, try using the official documentation, use any other resource if you like. ✅✅
+
+### 2)
+Learn about Postman using this course. ✅✅
+
+### 3)
+List 3 available postman alternatives.
+
+- Insomnia
+- Hoppscotch
+- Fiddler
 
 ---
