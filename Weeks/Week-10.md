@@ -57,9 +57,9 @@ app.get('/api/age/:name?',function (req, res) {
 });
 ```
 
-![imagen](../Weeks/Week-10/images/monday-age.png)
+![imagen](../Weeks/Week-10/images/monday-age3.png)
 
-![imagen](../Weeks/Week-10/images/monday-age2.png)
+![imagen](../Weeks/Week-10/images/monday-age.png)
 
 
 ### 4) NSA Secrets Box API - Hacking Challenge 👨‍💻
