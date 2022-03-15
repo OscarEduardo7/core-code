@@ -13,6 +13,7 @@ Core Code BootCamp
 - [WEEK 7 ~ pendiente ~](Weeks/Week-7.md)
 - [WEEK 8](Weeks/Week-8.md)
 - [WEEK 9](Weeks/Week-9.md)
+- [WEEK 10](Weeks/Week-10.md)
 
 ---
 
